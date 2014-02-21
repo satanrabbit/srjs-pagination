@@ -1,0 +1,29 @@
+{
+  "family": "satanrabbit",
+  "name": "pagination",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/SatanRabbit/pagination",
+  "author": "satanrabbit",
+  "maintainers": [
+    "satanrabbit"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SatanRabbit/pagination.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "pagination.js",
+      "pagination.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
