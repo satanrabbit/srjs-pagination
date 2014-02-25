@@ -1,16 +1,16 @@
 {
-  "family": "satanrabbit",
+  "family": "srjs",
   "name": "pagination",
   "version": "1.0.0",
   "description": "The best project ever.",
-  "homepage": "https://github.com/SatanRabbit/pagination",
+  "homepage": "https://github.com/SatanRabbit/srjs-pagination",
   "author": "satanrabbit",
   "maintainers": [
     "satanrabbit"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/SatanRabbit/pagination.git"
+    "url": "git://github.com/SatanRabbit/srjs-pagination.git"
   },
   "bugs": {
     "url": ""
@@ -22,7 +22,10 @@
       "pagination.js",
       "pagination.css"
     ],
-    "alias": {},
+    "alias": {
+      "$": "$",
+      "base": "arale/base/1.1.1/base"
+      },
     "devAlias": {},
     "engines": {}
   }
