@@ -23,7 +23,7 @@
       "pagination.css"
     ],
     "alias": {
-      "widget":"arale/widget/1.1.1/widget"
+      "$":"$"
       },
     "devAlias": {},
     "engines": {}
