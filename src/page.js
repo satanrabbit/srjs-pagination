@@ -1,4 +1,4 @@
-
+/*
 define(function(require, exports, module) {
   var $ = require('$');
   // 插件的代码
@@ -44,4 +44,4 @@ define(function(require, exports, module) {
       $(".z-dis").removeAttr("href");
     });
   }
-});
+});*/
